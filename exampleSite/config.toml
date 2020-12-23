@@ -2,7 +2,7 @@ baseurl = "http://examplesite.com/"
 disableLanguages = []
 googleAnalytics = ""
 summarylength = "20"
-theme = "Xesla"
+theme = "vex-hugo"
 title = "Xesla Scrub"
 [Languages.en]
 contentDir = "content/english"
